@@ -91,3 +91,5 @@ while True:
 
 Este projeto proporciona uma introdução prática ao uso do ESP32 e sensores em aplicações IoT. Através da coleta e análise de dados, é possível implementar soluções que ajudam a melhorar o conforto e a eficiência energética em ambientes internos.
 
+![image](https://github.com/user-attachments/assets/55d85998-da14-41b9-a00f-73ef81506c80)
+
